@@ -1,2 +1,4 @@
 # R_Projects_Repo_wietobi
-Personal Collection of my projects
+Personal collection of my own R projects 
+
+From A/B Testing to XG Boost
